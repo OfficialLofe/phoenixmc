@@ -9,7 +9,7 @@ affected:
   - Bungeecord
   - Hub
   - Survival
-severity: notice
+severity: disrupted
 ---
 **We are currently in the process of creating our Bungeecord, Hub and Survival servers.**\
 More servers will be added in the near future.
