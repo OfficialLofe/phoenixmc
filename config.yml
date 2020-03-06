@@ -30,7 +30,7 @@ params:
   incidentHistoryFormat: none
   ok: '#008000'
   categories:
-    - closed: true
+    - closed: false
       untited: false
       name: Servers
   description: >-
