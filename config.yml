@@ -22,6 +22,9 @@ params:
   logo: /logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: Home
+      link: 'https://expressmc.net'
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
