@@ -2,7 +2,7 @@ title: PhoenixMC
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: 'https://cstate.mnts.lt'
+baseURL: /
 params:
   disableDarkMode: true
   shortDateFormat: '15:04 — Jan 2'
