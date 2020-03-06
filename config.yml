@@ -17,14 +17,11 @@ params:
     - name: Factions
       category: Servers
   dateFormat: 'January 2, 2006 at 3:04 PM'
-  brand: '#0a0c0f'
+  brand: '#292929'
   headerTextColor: white
-  logo: /logo.png
+  logo: /img/phoenix.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  customTabs:
-    - name: Home
-      link: 'https://expressmc.net'
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
@@ -32,9 +29,7 @@ params:
   notice: '#24478f'
   incidentHistoryFormat: none
   ok: '#008000'
-  categories:
-    - name: Servers
-      closed: false
+  categories: []
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
