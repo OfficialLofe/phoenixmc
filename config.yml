@@ -8,14 +8,14 @@ params:
   shortDateFormat: '15:04 — Jan 2'
   down: '#e60000'
   systems:
-    - category: Servers
+    - category: a
       name: Bungeecord
-    - category: Servers
+    - category: a
       name: Hub
-    - category: Servers
+    - category: a
       name: Survival
     - name: Factions
-      category: Servers
+      category: a
   dateFormat: 'January 2, 2006 at 3:04 PM'
   brand: '#0a0c0f'
   headerTextColor: white
@@ -29,10 +29,7 @@ params:
   notice: '#24478f'
   incidentHistoryFormat: none
   ok: '#008000'
-  categories:
-    - name: Servers
-      closed: true
-      untited: true
+  categories: []
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
